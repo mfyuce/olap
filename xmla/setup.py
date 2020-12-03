@@ -14,7 +14,7 @@ install_requires=[
 
 setup(
     name='netas-xmla-with-dax',
-    version='0.8.0',
+    version='0.8.0.1',
     url="https://github.com/may-day/olap",
     license='Apache Software License 2.0',
     classifiers = [
