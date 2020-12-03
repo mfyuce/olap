@@ -6,14 +6,14 @@ long_description = open("README.md").read()
 
 install_requires=[
     'olap >= 0.3',
-    'zeep',
+    'netas-zeep',
     'requests',
     'lxml',
     'six'
     ]
 
 setup(
-    name='xmla',
+    name='netas-xmla-with-dax',
     version='0.8.0',
     url="https://github.com/may-day/olap",
     license='Apache Software License 2.0',
